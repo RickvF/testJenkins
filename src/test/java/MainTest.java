@@ -11,6 +11,6 @@ public class MainTest
 	
     @Test
     public void testSayGoodbye() {
-        assertEquals(Greeting.sayGoodbye("Rick"), "Goodbye Petrus");
+        assertEquals(Greeting.sayGoodbye("Rick"), "Goodbye Rick");
     }
 }
