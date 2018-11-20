@@ -10,4 +10,18 @@
             <version>4.12</version>
       </dependency>
 	</dependencies>
+	
+	<repositories>
+		<repository>
+			<id>myMavenRepo.read</id>
+			<url>https://mymavenrepo.com/repo/1qTtn8Y3H04N3sS0mTJX/</url>
+		</repository>
+	</repositories>
+	
+	<distributionManagement>
+		<repository>
+			<id>myMavenRepo.write</id>
+			<url>https://mymavenrepo.com/repo/K2PIprSdp6PshvyPL1tL/</url>
+		</repository>
+	</distributionManagement>
 </project>
