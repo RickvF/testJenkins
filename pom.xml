@@ -23,5 +23,9 @@
 			<id>myMavenRepo.write</id>
 			<url>https://mymavenrepo.com/repo/K2PIprSdp6PshvyPL1tL/</url>
 		</repository>
+		<snapshotRepository>
+            <id>myMavenRepo</id>
+            <url>https://mymavenrepo.com/repo/K2PIprSdp6PshvyPL1tL/</url>
+        </snapshotRepository>
 	</distributionManagement>
 </project>
